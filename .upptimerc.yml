@@ -3,10 +3,18 @@ owner: parti-coop # Your GitHub organization or username, where this repository 
 repo: parti-mx-upptime # The name of this repository
 
 sites:
+  - name: 빠띠
+    url: https://parti.coop
+  - name: 빠띠 그룹스
+    url: https://parti.xyz
+  - name: 빠띠 타운홀
+    url: https://townhall.kr/
   - name: 빠띠 믹스
     url: https://parti.mx
   - name: 빠띠 캠페인즈
     url: https://campaigns.kr
+  - name: 데이터퍼블릭
+    url: https://datapublic.kr
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
