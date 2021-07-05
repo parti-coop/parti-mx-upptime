@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 952,
-    "timeDay": 1009,
-    "timeWeek": 1062,
-    "timeMonth": 952,
-    "timeYear": 952,
+    "time": 945,
+    "timeDay": 853,
+    "timeWeek": 1034,
+    "timeMonth": 945,
+    "timeYear": 945,
     "dailyMinutesDown": {}
   },
   {
@@ -22,18 +22,20 @@
     "url": "https://parti.xyz",
     "icon": "https://favicons.githubusercontent.com/parti.xyz",
     "slug": "parti-groups",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5452,
-    "timeDay": 5916,
-    "timeWeek": 5601,
-    "timeMonth": 5452,
-    "timeYear": 5452,
-    "dailyMinutesDown": {}
+    "time": 7134,
+    "timeDay": 16387,
+    "timeWeek": 8309,
+    "timeMonth": 7134,
+    "timeYear": 7134,
+    "dailyMinutesDown": {
+      "2021-07-05": 0
+    }
   },
   {
     "name": "Parti Townhall",
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1043,
-    "timeDay": 869,
-    "timeWeek": 1049,
-    "timeMonth": 1043,
-    "timeYear": 1043,
+    "time": 1031,
+    "timeDay": 895,
+    "timeWeek": 1027,
+    "timeMonth": 1031,
+    "timeYear": 1031,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 85,
-    "timeDay": 98,
-    "timeWeek": 105,
-    "timeMonth": 85,
-    "timeYear": 85,
+    "time": 92,
+    "timeDay": 166,
+    "timeWeek": 125,
+    "timeMonth": 92,
+    "timeYear": 92,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1215,
-    "timeDay": 960,
-    "timeWeek": 1234,
-    "timeMonth": 1215,
-    "timeYear": 1215,
+    "time": 1189,
+    "timeDay": 908,
+    "timeWeek": 1205,
+    "timeMonth": 1189,
+    "timeYear": 1189,
     "dailyMinutesDown": {}
   },
   {
@@ -100,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1763,
-    "timeDay": 1404,
-    "timeWeek": 1778,
-    "timeMonth": 1763,
-    "timeYear": 1763,
+    "time": 1737,
+    "timeDay": 1443,
+    "timeWeek": 1733,
+    "timeMonth": 1737,
+    "timeYear": 1737,
     "dailyMinutesDown": {}
   }
 ]
