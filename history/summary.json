@@ -22,19 +22,19 @@
     "url": "https://parti.xyz",
     "icon": "https://favicons.githubusercontent.com/parti.xyz",
     "slug": "parti-groups",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 7134,
-    "timeDay": 16387,
-    "timeWeek": 8309,
-    "timeMonth": 7134,
-    "timeYear": 7134,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 7125,
+    "timeDay": 13258,
+    "timeWeek": 8164,
+    "timeMonth": 7125,
+    "timeYear": 7125,
     "dailyMinutesDown": {
-      "2021-07-05": 0
+      "2021-07-05": 4
     }
   },
   {
