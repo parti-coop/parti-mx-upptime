@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 978,
-    "timeDay": 996,
-    "timeWeek": 950,
-    "timeMonth": 974,
+    "timeDay": 974,
+    "timeWeek": 976,
+    "timeMonth": 972,
     "timeYear": 978,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 4098,
-    "timeDay": 928,
-    "timeWeek": 883,
-    "timeMonth": 2371,
-    "timeYear": 4098,
+    "time": 4036,
+    "timeDay": 978,
+    "timeWeek": 912,
+    "timeMonth": 2182,
+    "timeYear": 4036,
     "dailyMinutesDown": {
       "2021-07-05": 4
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1018,
-    "timeDay": 1020,
-    "timeWeek": 989,
-    "timeMonth": 1006,
-    "timeYear": 1018,
+    "time": 1021,
+    "timeDay": 1132,
+    "timeWeek": 1023,
+    "timeMonth": 1004,
+    "timeYear": 1021,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 84,
-    "timeDay": 118,
-    "timeWeek": 101,
-    "timeMonth": 84,
-    "timeYear": 84,
+    "time": 85,
+    "timeDay": 131,
+    "timeWeek": 113,
+    "timeMonth": 86,
+    "timeYear": 85,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1148,
-    "timeDay": 1182,
-    "timeWeek": 1135,
-    "timeMonth": 1125,
-    "timeYear": 1148,
+    "time": 1160,
+    "timeDay": 1712,
+    "timeWeek": 1237,
+    "timeMonth": 1143,
+    "timeYear": 1160,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.88%",
-    "time": 1601,
-    "timeDay": 1550,
-    "timeWeek": 1479,
-    "timeMonth": 1538,
-    "timeYear": 1601,
+    "time": 1604,
+    "timeDay": 1706,
+    "timeWeek": 1519,
+    "timeMonth": 1539,
+    "timeYear": 1604,
     "dailyMinutesDown": {
       "2021-08-01": 80
     }
