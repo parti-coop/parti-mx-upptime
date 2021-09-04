@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 985,
-    "timeDay": 1033,
-    "timeWeek": 1003,
-    "timeMonth": 987,
-    "timeYear": 985,
+    "time": 986,
+    "timeDay": 1074,
+    "timeWeek": 1009,
+    "timeMonth": 997,
+    "timeYear": 986,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3063,
-    "timeDay": 1004,
-    "timeWeek": 948,
-    "timeMonth": 935,
-    "timeYear": 3063,
+    "time": 3035,
+    "timeDay": 955,
+    "timeWeek": 943,
+    "timeMonth": 941,
+    "timeYear": 3035,
     "dailyMinutesDown": {
       "2021-07-05": 4
     }
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1027,
-    "timeDay": 1145,
-    "timeWeek": 1075,
-    "timeMonth": 1031,
+    "timeDay": 1065,
+    "timeWeek": 1074,
+    "timeMonth": 1037,
     "timeYear": 1027,
     "dailyMinutesDown": {}
   },
@@ -67,8 +67,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 91,
-    "timeDay": 72,
-    "timeWeek": 113,
+    "timeDay": 51,
+    "timeWeek": 103,
     "timeMonth": 104,
     "timeYear": 91,
     "dailyMinutesDown": {}
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1147,
-    "timeDay": 1189,
-    "timeWeek": 1128,
-    "timeMonth": 1144,
-    "timeYear": 1147,
+    "time": 1148,
+    "timeDay": 1164,
+    "timeWeek": 1137,
+    "timeMonth": 1149,
+    "timeYear": 1148,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 1592,
-    "timeDay": 1545,
-    "timeWeek": 1586,
-    "timeMonth": 1552,
-    "timeYear": 1592,
+    "time": 1593,
+    "timeDay": 1642,
+    "timeWeek": 1602,
+    "timeMonth": 1559,
+    "timeYear": 1593,
     "dailyMinutesDown": {
       "2021-08-01": 80
     }
