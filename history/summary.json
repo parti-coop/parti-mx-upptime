@@ -42,18 +42,20 @@
     "url": "https://townhall.kr/",
     "icon": "https://favicons.githubusercontent.com/townhall.kr",
     "slug": "parti-townhall",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1029,
-    "timeDay": 804,
-    "timeWeek": 975,
-    "timeMonth": 1045,
-    "timeYear": 1029,
-    "dailyMinutesDown": {}
+    "time": 1027,
+    "timeDay": 821,
+    "timeWeek": 958,
+    "timeMonth": 1038,
+    "timeYear": 1027,
+    "dailyMinutesDown": {
+      "2021-09-27": 0
+    }
   },
   {
     "name": "Parti Mx",
