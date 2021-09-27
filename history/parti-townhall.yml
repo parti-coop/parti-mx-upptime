@@ -1,7 +1,7 @@
 url: https://townhall.kr/
-status: up
-code: 200
-responseTime: 804
-lastUpdated: 2021-09-26T23:02:36.452Z
+status: down
+code: 502
+responseTime: 838
+lastUpdated: 2021-09-27T15:44:08.712Z
 startTime: Fri Jun 25 2021 13:56:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
