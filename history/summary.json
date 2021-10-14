@@ -101,9 +101,9 @@
     "url": "https://datapublic.kr",
     "icon": "https://favicons.githubusercontent.com/datapublic.kr",
     "slug": "data-public",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -113,6 +113,7 @@
     "timeMonth": 1612,
     "timeYear": 1598,
     "dailyMinutesDown": {
+      "2021-10-14": 0,
       "2021-08-01": 80
     }
   }
