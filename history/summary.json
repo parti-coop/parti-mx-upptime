@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 985,
-    "timeDay": 1045,
-    "timeWeek": 996,
-    "timeMonth": 967,
+    "timeDay": 1081,
+    "timeWeek": 1009,
+    "timeMonth": 970,
     "timeYear": 985,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1829,
+    "time": 1824,
     "timeDay": 989,
-    "timeWeek": 956,
-    "timeMonth": 923,
-    "timeYear": 1829,
+    "timeWeek": 958,
+    "timeMonth": 924,
+    "timeYear": 1824,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
-    "time": 1028,
-    "timeDay": 1086,
-    "timeWeek": 1057,
-    "timeMonth": 1015,
-    "timeYear": 1028,
+    "time": 1029,
+    "timeDay": 1111,
+    "timeWeek": 1063,
+    "timeMonth": 1016,
+    "timeYear": 1029,
     "dailyMinutesDown": {
       "2021-09-29": 611,
       "2021-09-27": 17
@@ -67,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 82,
-    "timeDay": 42,
-    "timeWeek": 63,
+    "time": 81,
+    "timeDay": 52,
+    "timeWeek": 64,
     "timeMonth": 80,
-    "timeYear": 82,
+    "timeYear": 81,
     "dailyMinutesDown": {}
   },
   {
@@ -86,9 +86,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1114,
-    "timeDay": 1136,
-    "timeWeek": 1092,
-    "timeMonth": 1073,
+    "timeDay": 1234,
+    "timeWeek": 1112,
+    "timeMonth": 1076,
     "timeYear": 1114,
     "dailyMinutesDown": {
       "2021-09-18": 26
@@ -105,11 +105,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1610,
-    "timeDay": 1649,
-    "timeWeek": 1571,
-    "timeMonth": 1634,
-    "timeYear": 1610,
+    "time": 1611,
+    "timeDay": 1823,
+    "timeWeek": 1599,
+    "timeMonth": 1640,
+    "timeYear": 1611,
     "dailyMinutesDown": {
       "2021-08-01": 80
     }
