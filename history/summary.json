@@ -4,18 +4,20 @@
     "url": "https://parti.coop",
     "icon": "https://favicons.githubusercontent.com/parti.coop",
     "slug": "parti",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 987,
-    "timeDay": 1026,
-    "timeWeek": 1012,
-    "timeMonth": 968,
+    "timeDay": 933,
+    "timeWeek": 991,
+    "timeMonth": 964,
     "timeYear": 987,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-14": 0
+    }
   },
   {
     "name": "Parti Groups",
