@@ -22,18 +22,20 @@
     "url": "https://parti.xyz",
     "icon": "https://favicons.githubusercontent.com/parti.xyz",
     "slug": "parti-groups",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1538,
-    "timeDay": 896,
-    "timeWeek": 958,
-    "timeMonth": 954,
+    "timeDay": 1154,
+    "timeWeek": 1014,
+    "timeMonth": 969,
     "timeYear": 1538,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-06": 0
+    }
   },
   {
     "name": "Parti Townhall",
