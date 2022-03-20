@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 988,
-    "timeDay": 975,
-    "timeWeek": 941,
-    "timeMonth": 981,
+    "timeDay": 960,
+    "timeWeek": 938,
+    "timeMonth": 979,
     "timeYear": 988,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1505,
-    "timeDay": 962,
-    "timeWeek": 900,
-    "timeMonth": 940,
-    "timeYear": 1505,
+    "time": 1504,
+    "timeDay": 994,
+    "timeWeek": 904,
+    "timeMonth": 939,
+    "timeYear": 1504,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 1039,
-    "timeDay": 1030,
-    "timeWeek": 1034,
-    "timeMonth": 1070,
+    "timeDay": 1062,
+    "timeWeek": 1023,
+    "timeMonth": 1068,
     "timeYear": 1039,
     "dailyMinutesDown": {
       "2021-09-29": 611,
@@ -63,15 +63,15 @@
     "slug": "parti-mx",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "95.48%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.35%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.98%",
-    "time": 83,
-    "timeDay": 376,
-    "timeWeek": 163,
-    "timeMonth": 120,
-    "timeYear": 83,
+    "time": 86,
+    "timeDay": 985,
+    "timeWeek": 269,
+    "timeMonth": 151,
+    "timeYear": 86,
     "dailyMinutesDown": {
       "2022-03-18": 65
     }
@@ -87,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1118,
-    "timeDay": 1184,
-    "timeWeek": 1158,
-    "timeMonth": 1153,
-    "timeYear": 1118,
+    "time": 1119,
+    "timeDay": 1164,
+    "timeWeek": 1148,
+    "timeMonth": 1155,
+    "timeYear": 1119,
     "dailyMinutesDown": {
       "2021-09-18": 26
     }
@@ -107,11 +107,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1617,
-    "timeDay": 1569,
-    "timeWeek": 1595,
-    "timeMonth": 1610,
-    "timeYear": 1617,
+    "time": 1618,
+    "timeDay": 1894,
+    "timeWeek": 1622,
+    "timeMonth": 1620,
+    "timeYear": 1618,
     "dailyMinutesDown": {
       "2021-08-01": 80
     }
