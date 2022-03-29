@@ -1,7 +1,7 @@
 url: https://parti.xyz
-status: up
-code: 200
-responseTime: 972
-lastUpdated: 2022-03-28T23:02:38.418Z
+status: down
+code: 500
+responseTime: 1223
+lastUpdated: 2022-03-29T07:37:23.757Z
 startTime: Fri Jun 25 2021 13:56:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
