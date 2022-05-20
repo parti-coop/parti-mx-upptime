@@ -1,7 +1,7 @@
 url: https://datapublic.kr
-status: up
-code: 200
-responseTime: 1692
-lastUpdated: 2022-05-19T23:02:46.902Z
+status: down
+code: 504
+responseTime: 10776
+lastUpdated: 2022-05-20T15:33:56.976Z
 startTime: Fri Jun 25 2021 13:56:12 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
