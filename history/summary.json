@@ -103,19 +103,19 @@
     "url": "https://datapublic.kr",
     "icon": "https://icons.duckduckgo.com/ip3/datapublic.kr.ico",
     "slug": "data-public",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1700,
-    "timeDay": 6488,
-    "timeWeek": 3077,
-    "timeMonth": 1969,
-    "timeYear": 1736,
+    "timeDay": 4858,
+    "timeWeek": 2912,
+    "timeMonth": 1958,
+    "timeYear": 1735,
     "dailyMinutesDown": {
-      "2022-11-19": 0
+      "2022-11-19": 8
     }
   }
 ]
