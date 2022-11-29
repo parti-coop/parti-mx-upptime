@@ -105,9 +105,9 @@
     "url": "https://datapublic.kr",
     "icon": "https://icons.duckduckgo.com/ip3/datapublic.kr.ico",
     "slug": "data-public",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -116,6 +116,8 @@
     "timeWeek": 1500,
     "timeMonth": 1936,
     "timeYear": 1730,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-29": 0
+    }
   }
 ]
