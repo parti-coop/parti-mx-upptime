@@ -22,19 +22,19 @@
     "url": "https://parti.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/parti.xyz.ico",
     "slug": "parti-groups",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 912,
-    "timeDay": 952,
-    "timeWeek": 942,
-    "timeMonth": 916,
+    "timeDay": 842,
+    "timeWeek": 916,
+    "timeMonth": 910,
     "timeYear": 904,
     "dailyMinutesDown": {
-      "2022-12-31": 0
+      "2022-12-31": 5
     }
   },
   {
@@ -119,7 +119,7 @@
     "timeMonth": 0,
     "timeYear": 1739,
     "dailyMinutesDown": {
-      "2022-12-31": 417,
+      "2022-12-31": 422,
       "2022-12-30": 1440,
       "2022-12-29": 1440,
       "2022-12-28": 1440,
