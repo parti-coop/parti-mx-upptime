@@ -22,9 +22,9 @@
     "url": "https://parti.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/parti.xyz.ico",
     "slug": "parti-groups",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 898,
     "timeMonth": 911,
     "timeYear": 903,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-04": 0
+    }
   },
   {
     "name": "Parti Townhall",
@@ -106,18 +108,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/datapublic.kr.ico",
     "slug": "data-public",
     "status": "down",
-    "uptime": "93.66%",
+    "uptime": "93.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "90.33%",
+    "uptimeYear": "90.20%",
     "time": 1712,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1740,
     "dailyMinutesDown": {
-      "2023-01-04": 20,
+      "2023-01-04": 723,
       "2023-01-03": 1440,
       "2023-01-02": 1440,
       "2023-01-01": 1440,
